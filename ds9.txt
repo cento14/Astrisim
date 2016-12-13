@@ -1,0 +1,28 @@
+XTENSION= 'IMAGE   '           / IMAGE extension                                
+BITPIX  =                  -32 / Number of bits per data pixel                  
+NAXIS   =                    2 / Number of data axes                            
+NAXIS1  =                  100 /                                                
+NAXIS2  =                  100 /                                                
+PCOUNT  =                    0 / No Group Parameters                            
+GCOUNT  =                    1 / One Data Group                                 
+CRVAL1  =             0.200000 /                                                
+CRPIX1  =                   49 /                                                
+CDELT1  =            -0.100000 /                                                
+CTYPE1  = 'GLON-CAR'           /                                                
+CUNIT1  = 'deg     '           /                                                
+CRVAL2  =            -0.200000 /                                                
+CRPIX2  =                   49 /                                                
+CDELT2  =             0.100000 /                                                
+CTYPE2  = 'GLAT-CAR'           /                                                
+CUNIT2  = 'deg     '           /                                                
+PIXCENT =                    T /                                                
+BUNIT   = 'INTENSITY'          /                                                
+BSCALE  =              10000.0 /                                                
+BZERO   =              0.00000 /                                                
+PRIMTYPE= 'RECT_MAP'           /                                                
+INSTRUME= 'AGILE   '           /                                                
+EXTNAME = 'SKY     '           /                                                
+E_MIN   =                  100 /Energy range                                    
+E_MAX   =                  200 /Energy range                                    
+END                                                                             
+

@@ -1,0 +1,26 @@
+
+
+;;;;; Instrument response
+
+ins_path='responses/'
+ins_file='IRF-f9_onaxis_new.dat'
+
+;;;;; Sources 
+
+src_path='sources/
+src_list=['VelaX_2.fits']
+
+
+;;;;; Observation parameters
+
+t_hours= 10.  
+
+l_asse=  263.
+b_asse=  -3.
+
+
+;;;;  Output
+
+out_path='simulations/'
+out_file='VelaX'
+
