@@ -1,0 +1,26 @@
+
+
+;;;;; Instrument response
+
+ins_path='responses/'
+ins_file='array7w3.dat'
+
+
+;;;;; Sources 
+
+src_path='sources/
+src_list=[ 'crab.fits' , 'ic443.fits'  ]
+
+
+;;;;; Observation parameters
+
+t_hours= 30
+
+l_asse= 187.
+b_asse= -2.
+
+
+;;;;  Output
+
+out_path='simulations/'
+out_file='anticentro.evt'
